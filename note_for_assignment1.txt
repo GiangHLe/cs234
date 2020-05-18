@@ -1,0 +1,10 @@
+First quiz about the teaching problem
+
+teching agent: provide addition or subtraction
+Enviroment: student: +1 if right, -1 if wrong
+addition is easier than subtraction
+
+-> conclusion: the agent will give them the easy addition problems -> student will answer correct -> +1 for that agent.
+
+-> Stanford student don't hestitate to ask some silly question, if they are not sure about something, they will ask it.
+
